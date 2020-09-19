@@ -1,0 +1,19 @@
+{
+  "name": "study-vercel",
+  "version": "1.0.0",
+  "description": "Vercel",
+  "main": "index.ts",
+  "repository": "https://github.com/yuto51942/study-vercel.git",
+  "author": "Yuto Watanabe <yuto.w51942@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.8.2"
+  },
+  "devDependencies": {
+    "@types/eslint": "^7.2.2",
+    "@typescript-eslint/eslint-plugin": "^4.1.1",
+    "@typescript-eslint/parser": "^4.1.1",
+    "eslint": "^7.9.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
